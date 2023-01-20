@@ -1,9 +1,9 @@
 ### Olá, bem vindo(a). Eu sou o Carlos Eduardo, ou simplesmente Cadu.
 
 - 💻 Estou cursando tecnologia em análise e desenvolvimento de sistemas
-- 😁 Estou estudando Java, C++, C#
+- 😁 Estou estudando Java, C++, C# e Dart
 - 📩 Contato através do e-mail: cadualfaro@yahoo.com
-
+<!--
 ##
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
   
 ##
-
+-->
   <img heigh="50cm" width="60cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img heigh="50cm" width="60cm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img heigh="50cm" width="120cm" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
